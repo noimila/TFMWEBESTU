@@ -1,0 +1,115 @@
+form {
+    margin-bottom: 1em;
+}
+
+nav {
+    background-image: linear-gradient(90deg,  rgb(170, 212, 238), ghostwhite);
+    color: black;
+    margin-bottom: 1em;
+}
+
+h1 { 
+    color: goldenrod; 
+    font-family: Tahoma; 
+    font-size: 36px; 
+    font-weight: 400; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin-top: 20px;
+    text-align: center; 
+}
+
+a:hover {
+    color: rebeccapurple;
+    text-decoration: none;
+}
+
+#panel {
+    background-color: ghostwhite;
+    margin: 0px;
+}
+
+#botones {
+    margin-top: 20px;
+}
+
+.carousel-caption span {
+    background-image: linear-gradient(180deg, transparent, black, transparent);
+    background-image: black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div#carrusel {
+    text-align:  center;
+    margin-right: 110px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-bottom: 100px;
+}
+
+div.container {
+    background-color: white;
+}
+
+p.texto {
+    color: #545454;
+}
+#panel {
+    margin-bottom: 20px;
+}
+
+div.presentation{
+    margin-right:  100px;
+    margin-left:  100px;
+}
+
+#encabezado1 {
+    background-color: palegoldenrod;
+}
+#encabezado2 {
+    background-color: ghostwhite;
+}
+
+#alerta {
+    text-align:  center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#tarjeta {
+    width: 150; 
+    margin-left: 20px; 
+    margin-top:20px;
+}
+
+div.video {
+    margin-top: 00px;
+}
+
+.iconos {
+    padding-top: 0.5em;
+    background-image: linear-gradient(90deg,  palegoldenrod, ghostwhite);
+    margin-top: 1em;
+}
+
+.material-icons.md-72 {
+    font-size: 80px;
+}
+
+.pie {
+    background-image: linear-gradient(90deg,  palegoldenrod, ghostwhite);
+    color: black;
+    padding: 1em;
+}
+
+a.pie:hover {
+    color: orangered;
+    text-decoration: none;
+}
+
+.pie a {
+    background-color: transparent;
+    background-image: linear-gradient(180deg,  transparent, transparent);
+}
+
